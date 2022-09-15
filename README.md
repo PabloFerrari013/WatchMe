@@ -13,6 +13,7 @@ This project uses JSON Server to simulate an API that has information about genr
 <div style="display: inline_block">
   <img align="center" alt="React js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="JSON server" height="30" width="40" src="https://avatars.githubusercontent.com/u/5502029?v=4">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 
 ---
